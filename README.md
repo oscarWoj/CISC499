@@ -6,6 +6,9 @@ Further work will be done to isolate specific conversations for further analysis
 Contents:
 - csv_parse.ipynb - Processing raw data into the proper input for BERTopic. Applying reduction techniques to further reduce the complexity of the data
 - bertopic.ipynb - Importing output from csv_parse and training a BERTopic model.
-- bertopic playground - Testing and comparing saved models
+- bertopic jupyterlab - Importing output from csv_parse and training the model in a jupyterlab enviroment
 
-Both of these files take a significant amount of time to run, for the readers sake, we will keep the outputs of the files completed and visible on Github whenever we can.
+#To be used later
+- bertopic playground - Playground to understand and compare saved model.
+
+Currently, this project is in progress.
