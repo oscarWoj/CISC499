@@ -14,4 +14,4 @@ Contents:
 
 - bertopic_playground.ipynb - Loading the final model for comparizons and data visualizations.
 
-- v4_bertopic_playground.ipynb - The final model with the topics reduced to isolate "potential" harmful conversations.
+- v4_bertopic_playground.ipynb - The final model with unimportant topics reduced to isolate "potential" harmful conversations.
