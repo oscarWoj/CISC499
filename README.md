@@ -17,4 +17,4 @@ Contents:
 - v4_bertopic_playground.ipynb - The final model with unimportant topics reduced to isolate "potential" harmful conversations.
 
 
-To load these models you must have the neccessary data and models themselves. They are too large to put on github, message me if you would like to run the experiment.
+To load the final models (playground) you must have the neccessary data and models themselves. They are too large to put on github, message me if you would like to run the experiment.
